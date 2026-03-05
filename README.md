@@ -76,8 +76,6 @@ Performance metrics such as accuracy, confusion matrix, and ROC-AUC are used to 
 
 ---
 
-# Author
-
 Devika Jayaraj  
 Master of Data Science – RMIT University  
 
