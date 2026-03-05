@@ -73,15 +73,6 @@ Performance metrics such as accuracy, confusion matrix, and ROC-AUC are used to 
 - Seaborn
 - Jupyter Notebook
 
----
-
-# Repository Structure
-machine-learning-notebooks
-│
-├── Phase1.ipynb # Exploratory Data Analysis
-├── Phase2.ipynb # Machine Learning Models
-└── README.md
-
 
 ---
 
